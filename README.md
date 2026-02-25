@@ -351,7 +351,7 @@ MIT License - Free for commercial and personal use
 
 ## 🙏 Acknowledgments
 
-Built with ❤️ for Kubernetes security enforcement.
+Built with GPU for Kubernetes security enforcement.
 
 ---
 
